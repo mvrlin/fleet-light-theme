@@ -2,7 +2,7 @@
   "name": "fleet-light-theme",
   "displayName": "Fleet Light Theme",
   "description": "🧙 Fleet Light Theme inspired for VSCode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "mvrlin",
   "engines": {
     "vscode": "^1.82.0"
